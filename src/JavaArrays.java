@@ -1,3 +1,15 @@
+/**
+ *   William Lafleur
+ *   Date: February 1st, 2022
+ *   Description: In this assignment I built a class that performs a few operations on the array(s) passed to
+ *   them:
+ *   1. Determine if two arrays are equal.
+ *   2. Copy a portion of a given array to a new array.
+ *   3. Calculate the sum of the rows in a 2-dimensional array (or matrix).
+ *   4. Calculate the Hamming distance between two arrays.
+ *   5. Perform a recursive binary search for a key in a sorted array (see below for more details).
+ */
+
 public class JavaArrays {
     public static void main(String[] args) {
         ArrayOperations operations = new ArrayOperations();
